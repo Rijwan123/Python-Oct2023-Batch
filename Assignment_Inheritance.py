@@ -73,11 +73,11 @@ dog = Dog('Canine')
 cat = Cat('Feline')
 
 # Accessing methods from different inherited classes
-dog.show_species()  # Output: This animal belongs to the Canine species.
+dog.show_species()  # Output: Animal belongs to the Canine species.
 dog.sound()         # Output: Woof!
 dog.make_sound()    # Output: Making some sound...
 
-cat.show_species()  # Output: This animal belongs to the Feline species.
+cat.show_species()  # Output: Animal belongs to the Feline species.
 cat.sound()         # Output: Meow!
 
 
